@@ -52,3 +52,22 @@ Make it into a cd.
 Run it by using this command,
 
 `./shell.sh`
+
+### NixOS
+
+To install git use the nix package manager.
+
+`nix-env -i git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Make it into a cd.
+
+`cd kod`
+
+Run it by using this command,
+
+`./shell.sh`
+
