@@ -29,6 +29,10 @@ Make it into a cd.
 
 `cd kod-unofficial`
 
+Unlock it. 
+
+`chmod +x shell.sh`
+
 Run it by using this command,
 
 `./shell.sh`
@@ -46,6 +50,10 @@ Then, Clone the project.
 Make it into a cd.
 
 `cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
 
 Run it by using this command,
 
@@ -65,6 +73,10 @@ Make it into a cd.
 
 `cd kod-unofficial`
 
+Unlock it. 
+
+`chmod +x shell.sh`
+
 Run it by using this command,
 
 `./shell.sh`
@@ -82,6 +94,10 @@ Then, Clone the project.
 Make it into a cd.
 
 `cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
 
 Run it by using this command,
 
