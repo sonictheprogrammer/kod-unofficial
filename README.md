@@ -71,3 +71,21 @@ Run it by using this command,
 
 `./shell.sh`
 
+### openSUSE
+
+To install git use zypper.
+
+`zypper install git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Make it into a cd.
+
+`cd kod`
+
+Run it by using this command,
+
+`./shell.sh`
+
