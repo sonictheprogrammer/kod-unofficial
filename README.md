@@ -23,11 +23,11 @@ https://git-scm.com/download/linux
 
 Then, Clone the project.
 
-`git clone https://github.com/sonictheprogrammer/kod`
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
 
 Make it into a cd.
 
-`cd kod`
+`cd kod-unofficial`
 
 Run it by using this command,
 
@@ -41,11 +41,11 @@ To install git use pkg.
 
 Then, Clone the project.
 
-`git clone https://github.com/sonictheprogrammer/kod`
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
 
 Make it into a cd.
 
-`cd kod`
+`cd kod-unofficial`
 
 Run it by using this command,
 
@@ -59,11 +59,11 @@ To install git use the nix package manager.
 
 Then, Clone the project.
 
-`git clone https://github.com/sonictheprogrammer/kod`
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
 
 Make it into a cd.
 
-`cd kod`
+`cd kod-unofficial`
 
 Run it by using this command,
 
@@ -77,11 +77,11 @@ To install git use zypper.
 
 Then, Clone the project.
 
-`git clone https://github.com/sonictheprogrammer/kod`
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
 
 Make it into a cd.
 
-`cd kod`
+`cd kod-unofficial`
 
 Run it by using this command,
 
