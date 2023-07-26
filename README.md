@@ -34,3 +34,21 @@ Make it into a cd.
 Run it by using this command,
 
 `./shell.sh`
+
+### OpenBSD
+
+To install git use pkg.
+
+`pkg_add git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Make it into a cd.
+
+`cd kod`
+
+Run it by using this command,
+
+`./shell.sh`
