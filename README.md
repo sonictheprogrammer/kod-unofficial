@@ -25,12 +25,12 @@ https://git-scm.com/download/linux
 
 Then, Clone the project.
 
-git clone https://github.com/sonictheprogrammer/kod
+`git clone https://github.com/sonictheprogrammer/kod`
 
 Make it into a cd.
 
-cd kod
+`cd kod`
 
 Run it by using this command,
 
-./shell.sh
+`./shell.sh`
