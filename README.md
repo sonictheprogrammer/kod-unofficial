@@ -87,3 +87,6 @@ Run it by using this command,
 
 `./shell.sh`
 
+Using an older system? Visit The README For the older systems below!
+
+https://github.com/sonictheprogrammer/kod-unofficial/blob/main/READMEforoldersystems.md
