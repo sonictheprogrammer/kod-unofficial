@@ -62,7 +62,7 @@ https://git-scm.com/download/mac
 
 To get the project, clone it.
 
-git clone https://github.com/sonictheprogrammer/kod-unofficial
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
 
 Then, get into the files.
 
@@ -76,10 +76,71 @@ To run, write the file.
 
 ./shell.sh
 
-⚠ UNFINSHED
+### Fedora 21 and CentOS
 
+To install git, just do this command.
 
+`yum install git`
 
+To get the project, clone it.
+
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
+
+Then, get into the files.
+
+`cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
+
+To run, write the file.
+
+`./shell.sh`
+
+### Windows 8.1 and older
+
+To install, if you don't have git yet, go to this link, and choose what type of download you'll use.
+
+https://git-scm.com/download/win
+
+To get the project, clone it.
+
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
+
+Then, get into the files.
+
+`cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
+
+To run, write the file.
+
+`./shell.sh`
+
+### FreeBSD 13.0 and older
+
+To install git (if you don't have it yet), install it by using this command.
+
+`pkg install git`
+
+Then, clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
+
+Then, get into the files.
+
+`cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
+
+To run, write the file.
+
+`./shell.sh`
 
 
 
