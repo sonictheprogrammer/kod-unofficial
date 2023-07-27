@@ -1,0 +1,4 @@
+Red Hat: Originally Officialy Released, but replaced by Fedora for being Closed Source.
+OpenBSD: Not released yet.
+openSUSE: Not released yet.
+NixOS: Not released yet.
