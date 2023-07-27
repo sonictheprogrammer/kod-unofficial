@@ -1,6 +1,6 @@
 # Kod Unofficial (For older systems)
 
-**⚠ Warningg, This is Unofficial Counterpart of Kod, This is for older systems. If you run this in a new system, things might be a problem.**
+**⚠ Warning, This is Unofficial Counterpart of Kod, This is for older systems. If you run this in a new system, things might be a problem.**
 
 **I would recommend you to upgrade and go to Kod,**
 
