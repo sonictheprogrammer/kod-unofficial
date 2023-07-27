@@ -1,0 +1,6 @@
+ChromeOS: Being really bad on systems. Also Closed Source.
+ChromuimOS: Same for ChromeOS but Open Source.
+NetBSD: Not sure where i know how to use it. (Might have to research.)
+Slackware: I don't know how to use it.
+Tiny Core: Why?
+Void Linux: Not yet researched
