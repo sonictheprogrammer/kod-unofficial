@@ -56,31 +56,25 @@ Run it by using this command,
 
 ### macOS Big Sur and older
 
-Update the system first in settings,
-
 To install, if you don't have git yet, go to this link, and choose what client you'll use.
 
 https://git-scm.com/download/mac
 
 To get the project, clone it.
 
-git clone https://github.com/sonictheprogrammer/kod
+git clone https://github.com/sonictheprogrammer/kod-unofficial
 
 Then, get into the files.
 
-cd kod
+`cd kod-unofficial`
 
-To prepare, use this command.
+Unlock it. 
 
-chmod +x mac.sh
-
-Also, to make sure that run.sh can work, use this command.
-
-chmod +x run.sh
+`chmod +x shell.sh`
 
 To run, write the file.
 
-./mac.sh
+./shell.sh
 
 ⚠ UNFINSHED
 
