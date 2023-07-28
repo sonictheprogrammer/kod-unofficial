@@ -142,6 +142,50 @@ To run, write the file.
 
 `./shell.sh`
 
+### RHEL 7 and Older
+
+To install git, go to this link and go to the section "Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al."
+
+https://git-scm.com/download/linux
+
+Then, Clone the project.
+
+git clone https://github.com/sonictheprogrammer/kod-unofficial
+
+Make it into a cd.
+
+cd kod-unofficial
+
+Unlock it.
+
+chmod +x shell.sh
+
+Run it by using this command,
+
+./shell.sh
+
+### openSUSE Leap 15.3 and older
+
+To install git use zypper.
+
+zypper install git
+
+Then, Clone the project.
+
+git clone https://github.com/sonictheprogrammer/kod-unofficial
+
+Make it into a cd.
+
+cd kod-unofficial
+
+Unlock it.
+
+chmod +x shell.sh
+
+Run it by using this command,
+
+./shell.sh
+
 
 
 
