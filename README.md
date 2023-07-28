@@ -58,28 +58,6 @@ Run it by using this command,
 
 `./shell.sh`
 
-### openSUSE
-
-To install git use zypper.
-
-`zypper install git`
-
-Then, Clone the project.
-
-`git clone https://github.com/sonictheprogrammer/kod-unofficial`
-
-Make it into a cd.
-
-`cd kod-unofficial`
-
-Unlock it. 
-
-`chmod +x shell.sh`
-
-Run it by using this command,
-
-`./shell.sh`
-
 Using an older system? Visit The README For the older systems below!
 
 https://github.com/sonictheprogrammer/kod-unofficial/blob/main/READMEforoldersystems.md
