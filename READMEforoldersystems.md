@@ -32,7 +32,7 @@ Run it by using this command,
 
 ### Arch
 
-**Arch is a rolling release distro, so most (or maybe) release are already updated.** **(unless if you check out the older iso files in arch downloads and never update.)**
+**Arch is a rolling release distro, so most (or maybe) releases have been already updated.** **(unless if you check out the older iso files in arch downloads or never update.)**
 
 If you don't have git. You can install it by doing this command.
 
